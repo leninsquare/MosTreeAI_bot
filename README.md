@@ -1,2 +1,4 @@
 # MosTreeAI_bot
-Bot, that identifies trees and their damages
+Бот, определяющий деревья и их повреждения
+
+Доступен по ссылке https://t.me/mostreeai_bot
